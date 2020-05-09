@@ -27,7 +27,6 @@ tableData.forEach(function(dataiterate) {
 
 }
 
-
 var button = d3.select("#filter-btn");
 
 button.on("click", searchfilter);
