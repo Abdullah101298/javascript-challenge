@@ -33,6 +33,10 @@ button.on("click", searchfilter);
 
 function searchfilter() { 
 
+    var $tbody = document.querySelector("tbody");
+    $tbody.innerHTML = "";
+
+
     var inputelement = d3.select("#datetime");
 
     var inputvalues = inputelement.property("value");
