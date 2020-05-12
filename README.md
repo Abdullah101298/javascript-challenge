@@ -19,7 +19,7 @@ We need you to write code that will create a table dynamically based upon a data
 
 <li> Use a date form in your HTML document and write JavaScript code that will listen for events and search through the date/time column to find rows that match user input.
   
-permalink: /index.html
+
 
 
 
