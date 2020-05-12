@@ -6,7 +6,7 @@
 
 ## Background 
 
-
+We need you to write code that will create a table dynamically based upon a dataset. We also need to allow our users to filter the table data for specific dates. 
 
 
 
